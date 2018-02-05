@@ -26,10 +26,14 @@ print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
+# My surname is Duffy
+# The first letter D is number 68
+# The last letter y is number 121
+# Fibonacci number 189 is 1409869790947669143312035591975596518914
 
 # About the ord() function in Python:
-
-# In very simple terms, ord() returns the ASCII value of a character. For example: ord (‘a’) returns the integer 97, while ord ('A') returns the integer 65. It gives the opposite result of chr(), e.g. chr (97) is (‘a’).
+# In very simple terms, ord() returns the ASCII value of a character. For example: ord (‘a’) returns the integer 97, while ord ('A') returns the integer 65. 
+# It gives the opposite result of chr(), e.g. chr (97) is (‘a’).
 
 # To explain:
 
