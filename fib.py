@@ -1,4 +1,4 @@
-# Ian McLoughlin
+# Gareth Duffy 22-1-2018
 # A program that displays Fibonacci numbers.
 
 def fib(n):
