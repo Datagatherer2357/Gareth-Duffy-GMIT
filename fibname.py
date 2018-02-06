@@ -1,4 +1,4 @@
-# Ian McLoughlin
+# Gareth Duffy 29-1-2018
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
