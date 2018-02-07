@@ -1,5 +1,5 @@
 # Gareth Duffy 6-2-2018
-# A program that demonstrates Collatz conjecture sequences
+# A program that demonstrates the Collatz conjecture sequence
 
 x = int(input("Please enter a number to demonstrate the Collatz conjecture: "))
 
