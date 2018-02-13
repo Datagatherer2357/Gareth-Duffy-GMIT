@@ -1,5 +1,6 @@
 # Gareth Duffy 6-2-2018
-# Fizzbuzz: https://en.wikipedia.org/wiki/Fizz_buzz
+# Fizzbuzz game!: https://en.wikipedia.org/wiki/Fizz_buzz
+# Synced
 
 i = 1
 
