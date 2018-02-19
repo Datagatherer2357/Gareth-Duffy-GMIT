@@ -14,4 +14,4 @@ while guess != target:
     elif guess < target:
         print("too low bro")
     else:
-        print("too high lad")
+        print("too high pal")
