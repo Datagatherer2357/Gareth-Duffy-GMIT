@@ -1,3 +1,5 @@
+# Gareth Duffy
+
 # Python tutorial 7.1
 
 table = {'Sjoerd': 4127, 'Jack': 4098, 'Dcab': 7678}
