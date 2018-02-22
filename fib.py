@@ -1,5 +1,6 @@
 # Gareth Duffy 22-1-2018
 # A program that displays Fibonacci numbers.
+# https://en.wikipedia.org/wiki/Fibonacci_number
 
 def fib(n):
   """This function returns the nth Fibonacci number."""

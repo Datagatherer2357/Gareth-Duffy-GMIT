@@ -12,6 +12,6 @@ while guess != target:
     if guess == target:
         print("congrats ! You guessed right!!")
     elif guess < target:
-        print("too low bro")
+        print("too low bro!")
     else:
-        print("too high pal")
+        print("too high pal!")

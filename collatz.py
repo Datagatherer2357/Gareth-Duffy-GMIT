@@ -1,5 +1,6 @@
 # Gareth Duffy 6-2-2018
 # A program that demonstrates the Collatz conjecture sequence
+# https://en.wikipedia.org/wiki/Collatz_conjecture
 
 x = int(input("Please enter a number of 17 or more to demonstrate the Collatz conjecture: "))
 
