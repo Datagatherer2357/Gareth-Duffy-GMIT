@@ -1,4 +1,4 @@
-# Gareth Duffy 20-2-2018
+# Gareth Duffy 25-2-2018
 
 # Euler project problem 5: Python program using for and range to calculate the smallest 
 # positive number that is evenly divisible by all of the numbers from 1 to 20.
