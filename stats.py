@@ -1,3 +1,4 @@
+# Gareth Duffy 17-2-2018
 # statistics 
 
 import statistics
