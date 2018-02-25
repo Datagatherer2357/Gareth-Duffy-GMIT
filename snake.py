@@ -1,4 +1,5 @@
 # Gareth Duffy 25-2-2018
+# Python welcome
 
 how_many_snakes = 1
 snake_string = """
