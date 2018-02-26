@@ -1,4 +1,4 @@
-Gareth-Duffy-GMIT
+Gareth-Duffy - GMIT
 
 GMIT Progamming & Scripting projects:
 
@@ -12,6 +12,7 @@ euler5.py is a program that uses for and range to calculate the smallest positiv
 
 
 All other files contain programs that are not part of GMIT assignments.
+
 This repository contains Python code only.
 
 
