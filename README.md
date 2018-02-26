@@ -1,4 +1,5 @@
 Gareth-Duffy-GMIT
+
 GMIT Progamming & Scripting projects:
 
 fib.py is a program which calculates the 15th Fibonacci number. The program was originally designed to calculate the 30th fibonacci number, and can be altered to calculate any. 15 was used to demonstrate that n (15) was the sum of the first and last letters of my first name (i.e. Gareth...G (7) + h (8) = 15). (Excercise 1 of Programming and Scripting).
