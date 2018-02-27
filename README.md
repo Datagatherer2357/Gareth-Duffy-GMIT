@@ -10,6 +10,7 @@ collatz.py is a program that demonstrates the sequences of the Collatz conjectur
 
 euler5.py is a program that uses for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. (Excercise 4 of programming and scripting).
 
+ex5iris.py is Ronald Fisher's Iris dataset realligned with justification of spaces and columns. (Excercise 5 of programming and scripting).
 
 All other files contain programs that are not part of GMIT assignments.
 
