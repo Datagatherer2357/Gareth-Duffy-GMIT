@@ -1,3 +1,6 @@
+#Gareth Duffy
+# if statement Pythpn tutorial
+
 x = int(input("Please enter an integer: "))
 
 if x < 0:
