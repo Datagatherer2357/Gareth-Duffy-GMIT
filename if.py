@@ -1,4 +1,4 @@
-#Gareth Duffy
+# Gareth Duffy
 # if statement Pythpn tutorial
 
 x = int(input("Please enter an integer: "))
