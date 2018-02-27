@@ -23,7 +23,7 @@ if number % 2 == 0:
 else:
     print("The number " + str(number) + " is odd.")
 
-# Bus ticket example 
+# Luas ticket example 
 
 # change the age to experiment with the pricing
 age = 36
