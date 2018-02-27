@@ -1,6 +1,7 @@
 # Gareth Duffy 27-2-2018
 # Iris excercise 5 
-# Ronald Fisher's Iris dataset realligned with justification of spaces and columns
+# Python script that read Ronald Fisher's Iris dataset and prints the values
+# neatly realligned with justification of spaces and columns
 
 with open("data/iris.csv") as f:
   for line in f:
