@@ -1,3 +1,6 @@
+# Gareth Duffy
+# restaurant bill program
+
 def tax(bill):
   """Adds 8% tax to a restaurant bill."""
   bill *= 1.08
