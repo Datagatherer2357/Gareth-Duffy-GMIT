@@ -27,7 +27,7 @@
 
 # The result (eul5) was chcked using https://www.calculatorsoup.com/calculators/math/lcm.php
 
-print("What is the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?")
+print("What is the the smallest positive number evenly divisible by all numbers from 1 to 20?")
 
 def gcd(a, b):  # Function for greatest common divisor formula.
   while b:
@@ -40,6 +40,6 @@ def lcm(a, b):  # Function for lowest common multiple formula.
 eul5 = lcm(11, 20)  # lcm formula assigned to eul5 (solution) variable.
 for i in range(11, 21): # for loop using "i" variable to iterate over all integers ranging 11-20.
   eul5 = lcm(i, eul5)  # elements of lcm updated to yield smallest positive number.
-  
-print(int(eul5)) 
+
+print(int(eul5))  
 
