@@ -42,3 +42,4 @@ for i in range(11, 21): # for loop using "i" variable to iterate over all intege
   eul5 = lcm(i, eul5)  # elements of lcm updated to yield smallest positive number.
   
 print(("Answer:"), int(eul5)) 
+
