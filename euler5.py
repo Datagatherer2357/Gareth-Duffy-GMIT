@@ -39,7 +39,7 @@ def lcm(a, b):  # Function for lowest common multiple formula.
 
 eul5 = lcm(11, 20)  # lcm formula assigned to eul5 (solution) variable.
 for i in range(11, 21): # for loop using "i" variable to iterate over all integers ranging 11-20.
-  eul5 = lcm(eul5, i)  # elements of lcm updated to yield smallest positive number.
+  eul5 = lcm(eul5, i)  # argument of lcm function updated to yield smallest positive number.
 
 print("The smallest positive number is", int(eul5)) 
 
