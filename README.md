@@ -12,6 +12,8 @@ euler5.py is a program that uses for and range to calculate the smallest positiv
 
 ex5iris.py is Ronald Fisher's Iris dataset realligned with justification of spaces and columns. (Excercise 5 of programming and scripting).
 
+factorial.py is a program that contains a function called factorial which takes a single positive integer and returns its factorial.  (Excercise 6 of programming and scripting).
+ 
 All other files contain programs that are not part of GMIT assignments.
 
 This repository contains Python code only.
