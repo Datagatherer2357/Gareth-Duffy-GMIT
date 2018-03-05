@@ -1,5 +1,5 @@
 # Gareth Duffy 27-2-2018
-# Iris excercise 5 
+# Iris dataset (Excercise 5 Programming & Scripting).
 # Python script that reads Fisher's Iris dataset and prints the values
 # neatly realligned with justification of spaces and columns
 
