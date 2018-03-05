@@ -1,5 +1,5 @@
 # Gareth Duffy 22-1-2018
-# A program that displays Fibonacci numbers.
+# A program that displays Fibonacci numbers. (Excercise 1 Programming & Scripting)
 # https://en.wikipedia.org/wiki/Fibonacci_number
 
 def fib(n):
