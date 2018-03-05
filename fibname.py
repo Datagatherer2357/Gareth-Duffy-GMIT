@@ -1,5 +1,7 @@
 # Gareth Duffy 29-1-2018
-# A program that displays Fibonacci numbers using people's names.
+# A program that displays Fibonacci numbers using people's names. (Excercise 2 Programming & Scripting)
+
+# """Fibonacci function for names""" (Docstring)
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
