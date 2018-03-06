@@ -6,7 +6,7 @@
 with open("data/iris.csv") as f:
   for line in f:
     table = line.split(',')  # Creates splits on whitespace
-    print('{0[0]:12} {0[1]:12} {0[2]:12} {0[3]:12} {0[4]:12}'.format(table)) # Formats columns
+    print('{0[0]:12} {0[1]:12} {0[2]:12} {0[3]:12} {0[4]:12}'.format(table)) # Formats column width
 
     
 sepal_length sepal_width  petal_length petal_width  species
