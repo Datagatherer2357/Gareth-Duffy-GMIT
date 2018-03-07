@@ -4,9 +4,10 @@
 # neatly realligned with justification of spaces and columns
 
 with open("data/iris.csv") as f:
-  for line in f:
-    table = line.split(',')  # Creates splits on whitespace
-    print('{0[0]:12} {0[1]:12} {0[2]:12} {0[3]:12} {0[4]:12}'.format(table)) # Formats column width
+  for line in f: # for loop to iterate over lines in table
+    table = line.split(',')  # table variable assigned to create splits on whitespace
+    print('{0[0]:12} {0[1]:12} {0[2]:12} {0[3]:12} {0[4]:12}'.format(table)) # Idices for specifying column widths and 
+                                                                             # format function used to call table variable 
 
     
 sepal_length sepal_width  petal_length petal_width  species
