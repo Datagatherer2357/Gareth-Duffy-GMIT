@@ -1,10 +1,9 @@
 # Gareth Duffy 29-1-2018
 # A program that displays Fibonacci numbers using people's names. (Excercise 2 Programming & Scripting)
 
-# """Fibonacci function for names""" (Docstring)
+# """Fibonacci function for names. This function returns the nth Fibonacci number""" (Docstring)
 
 def fib(n):
-  """This function returns the nth Fibonacci number."""
   i = 0
   j = 1
   n = n - 1
