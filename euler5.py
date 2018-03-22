@@ -31,7 +31,7 @@ def gcd(a, b):
     a, b = b, a % b
   return a
 
-#"""This function returns hte lowest common multiple of two natural numbers"""
+#"""This function returns the lowest common multiple of two natural numbers"""
 def lcm(a, b):  
   return (a * b) / gcd(a, b)
 
