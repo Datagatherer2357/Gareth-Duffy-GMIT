@@ -25,12 +25,14 @@
 
 print("What is the the smallest positive number evenly divisible by all numbers from 1 to 20?")
 
-def gcd(a, b):  # Function/algorithm for greatest common divisor.
+ # """This function returns the greatest common divisor of two natural numbers"""
+def gcd(a, b): 
   while b:
     a, b = b, a % b
   return a
 
-def lcm(a, b):  # Function/algorithm for lowest common multiple.
+# """This function returns hte lowest common multiple of two natural numbers"""
+def lcm(a, b):  
   return (a * b) / gcd(a, b)
 
 eul5 = lcm(11, 20)  # lcm function assigned to eul5 (solution) variable. Finds the lcm of 11 and 20.
