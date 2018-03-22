@@ -25,13 +25,13 @@
 
 print("What is the the smallest positive number evenly divisible by all numbers from 1 to 20?")
 
- # """This function returns the greatest common divisor of two natural numbers"""
+"""This function returns the greatest common divisor of two natural numbers"""
 def gcd(a, b): 
   while b:
     a, b = b, a % b
   return a
 
-# """This function returns hte lowest common multiple of two natural numbers"""
+"""This function returns hte lowest common multiple of two natural numbers"""
 def lcm(a, b):  
   return (a * b) / gcd(a, b)
 
