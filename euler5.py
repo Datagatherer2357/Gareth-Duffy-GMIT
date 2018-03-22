@@ -22,7 +22,7 @@
 # numbers, so I had to create a for loop incorporating the range function in order
 # to loop over all numbers in the 11 to 20 range.
 
-# The result (eul5) was chcked using https://www.calculatorsoup.com/calculators/math/lcm.php
+# The result (eul5) was checked using https://www.calculatorsoup.com/calculators/math/lcm.php
 
 print("What is the the smallest positive number evenly divisible by all numbers from 1 to 20?")
 
@@ -34,7 +34,7 @@ def gcd(a, b):  # Function/algorithm for greatest common divisor.
 def lcm(a, b):  # Function/algorithm for lowest common multiple.
   return (a * b) / gcd(a, b)
 
-eul5 = lcm(11, 20)  # lcm formula assigned to eul5 (solution) variable.
+eul5 = lcm(11, 20)  # lcm function assigned to eul5 (solution) variable.
 for i in range(11, 21): # for loop using "i" variable to iterate over all integers ranging 11-20.
   eul5 = lcm(eul5, i)  # argument of lcm function updated to yield smallest positive number.
 
