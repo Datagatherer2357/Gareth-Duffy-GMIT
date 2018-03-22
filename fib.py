@@ -2,8 +2,8 @@
 # A program that displays Fibonacci numbers. (Excercise 1 Programming & Scripting)
 # https://en.wikipedia.org/wiki/Fibonacci_number
 
+#   """This function returns the nth Fibonacci number."""
 def fib(n):
-  """This function returns the nth Fibonacci number."""
   i = 0
   j = 1
   n = n - 1
