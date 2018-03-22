@@ -1,7 +1,7 @@
 # Gareth Duffy 5-3-2018
 # Factorial function algorithm (Excercise 6 Programming & Scripting)
 
-""" This function returns the factorial of any integer""" (Docstring)
+#""" This function returns the factorial of any integer""" (Docstring)
 
 def factorial(n): # function header 
   num = n # factorial input number value assigned to num variable
@@ -14,7 +14,7 @@ print(factorial(7))
 print(factorial(10))
 
 
-# """Version which asks for an integer at input and returns factorial statement"""
+#"""Version which asks for an integer at input and returns factorial statement"""
 
 n = int(input("Please enter a number to show its factorial: "))
 
