@@ -1,6 +1,6 @@
 Gareth-Duffy - GMIT
 
-***GMIT Progamming & Scripting projects:***
+***GMIT Progamming & Scripting problem sets:***
 
 * fib.py is a program which calculates the 15th Fibonacci number. The program was originally designed to calculate the 30th    
   fibonacci number, and can be altered to calculate any. 15 was used to demonstrate that n (15) was the sum of the first and   
