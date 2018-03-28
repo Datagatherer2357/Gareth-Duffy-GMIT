@@ -1,4 +1,4 @@
-Gareth-Duffy - GMIT
+# Gareth-Duffy - GMIT
 
 ***GMIT Progamming & Scripting problem sets:***
 
