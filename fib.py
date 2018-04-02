@@ -3,20 +3,22 @@
 # https://en.wikipedia.org/wiki/Fibonacci_number
 
 #"""This function returns the nth Fibonacci number.""" (Docstring)
+# The point of functions is to take in inputs and return something.
 def fib(n):
   i = 0
   j = 1
   n = n - 1
 
-  while n >= 0:
+  while n >= 0: # while loop, condition that n is greater or equal to zero
     i, j = j, i + j
     n = n - 1
   
-  return i
+  return i # The return statement is used when a function is ready to exit and return a value back to 
+           # its caller, without it, the function returns nothing 
 
-# Test the function with the following value.
-x = 15
-ans = fib(x)
+# Test the fib function with the following value:
+x = 15 # assigning the integer 15 to the new "x" variable
+ans = fib(x) # calling fib function and assigning it to new "ans" variable
 print("Fibonacci number", x, "is", ans)
 
 
