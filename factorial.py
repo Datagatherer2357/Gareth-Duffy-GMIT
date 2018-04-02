@@ -14,7 +14,7 @@ print(factorial(7))
 print(factorial(10))
 
 
-#"""Version which asks for an integer at input and returns factorial statement"""
+# """ My second version which asks for an integer at input and returns factorial statement"""
 
 n = int(input("Please enter a number to show its factorial: "))
 
