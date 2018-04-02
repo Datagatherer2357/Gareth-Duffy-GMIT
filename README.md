@@ -6,7 +6,8 @@
 
 * fib.py is a program which calculates the 15th Fibonacci number. 
   The program was originally designed to calculate the 30th fibonacci number, and can be amended to calculate any number. 
-  15 was used to demonstrate that n (15) was the sum of the first and last letters of my first name (i.e. Gareth...G (7) + h (8) = 15).     
+  15 was used to demonstrate that n (15) was the sum of the first and last letters of my first name (i.e. Gareth...G (7) + h (8) = 15).   
+
 **Excercise 2 of programming and scripting:**
 
 * fibname.py is a program that displays Fibonacci numbers using people's names. 
@@ -28,7 +29,7 @@
 
 * factorial.py is a program that contains a function called factorial which takes a single positive integer and returns its   
   factorial.  
-
+----------------------------------------------------------------------------------------------------------------------------------------
 * All other files contain Python programs that are not GMIT assignments.
 
 * This repository contains Python code only.
