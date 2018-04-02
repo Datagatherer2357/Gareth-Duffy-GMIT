@@ -1,13 +1,13 @@
 # Gareth Duffy 27-2-2018
 # Iris dataset (Excercise 5 Programming & Scripting).
 # Python script that reads Fisher's Iris dataset and prints the values
-# neatly realligned with justification of spaces and columns
+# realligned with justification of spaces and columns
 
 with open("data/iris.csv") as f:
-  for line in f: # for loop to iterate over lines in table
+  for line in f: # for loop to iterate over lines (rows) in table
     table = line.split(',')  # table variable assigned to create splits on whitespace
     print('{0[0]:12} {0[1]:12} {0[2]:12} {0[3]:12} {0[4]:12}'.format(table)) # Indices for specifying column widths and 
-                                                                             # format function used to call table variable 
+                                                                             # format method used to call table variable 
 
     
 sepal_length sepal_width  petal_length petal_width  species
