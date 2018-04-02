@@ -1,5 +1,7 @@
 ## Gareth-Duffy - GMIT
 
+<img src="https://image.ibb.co/gw4Gen/Index_GMIT.png" alt="Index GMIT" border="0" />
+
 ***GMIT Progamming & Scripting problem sets:***
 
 **Excercise 1 of Programming and Scripting:**
@@ -30,7 +32,7 @@
 * factorial.py is a program that contains a function called factorial which takes a single positive integer and returns its   
   factorial.  
 ----------------------------------------------------------------------------------------------------------------------------------------
-* All other files contain Python programs that are not GMIT assignments.
+* All other files in this repository are Python programs that are not GMIT assignments.
 
 * This repository contains Python code only.
 
