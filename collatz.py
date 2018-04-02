@@ -2,14 +2,14 @@
 # A program that demonstrates the Collatz conjecture sequence. (Excercise 3 Programming & Scripting).
 # https://en.wikipedia.org/wiki/Collatz_conjecture
 
-x = int(input("Please enter a number to demonstrate the Collatz sequence: "))
+x = int(input("Please enter a number to demonstrate the Collatz sequence: ")) # input function request assigned to variable "x"
 
 while x >= 1:  #  Specified starting value of 1 or higher.
     if x % 2 == 0:  # if loop that divides by 2 if number is even, and returns result.
-        x = x / 2
+        x = x / 2 # x is now x divided by 2
         print (int(x))
     else:  # # else loop that multiplies by 3 if number is odd, and returns result.
-        x = (x * 3) + 1
+        x = (x * 3) + 1 # x is equal itself multiplied by 3
         print (int(x))
     if x == 1:  # if statement that terminates loop once the integer 1 is reached. 
-        break
+        break # stop while loop 
