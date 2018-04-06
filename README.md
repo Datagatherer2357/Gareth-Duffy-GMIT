@@ -2,14 +2,14 @@
 
 <img src="https://image.ibb.co/gw4Gen/Index_GMIT.png" alt="Index GMIT" border="0" />
 
-***GMIT Progamming & Scripting problem sets:***
+***GMIT Progamming & Scripting problem sets***
+
 
 **Excercise 1 of Programming and Scripting:**
 
 * fib.py is a program which calculates the 15th Fibonacci number. 
   The program was originally designed to calculate the 30th fibonacci number, and can be amended to calculate any number. 
   15 was used to demonstrate that n (15) was the sum of the first and last letters of my first name (i.e. Gareth...G (7) + h (8) = 15).   
-
 **Excercise 2 of programming and scripting:**
 
 * fibname.py is a program that displays Fibonacci numbers using people's names. 
