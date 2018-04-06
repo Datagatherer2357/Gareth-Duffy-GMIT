@@ -25,13 +25,15 @@
  
 **Excercise 5 of programming and scripting:**
 
-* ex5iris.py is Ronald Fisher's Iris dataset realligned with justification of spaces and columns. 
+* ex5iris.py is Ronald Fisher's Iris dataset formatted with justification of spaces and columns. 
 
 **Excercise 6 of programming and scripting:**
 
 * factorial.py is a program that contains a function called factorial which takes a single positive integer and returns its   
   factorial.  
+  
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 * All other files in this repository are Python programs that are not GMIT assignments.
 
 * This repository contains Python code only.
