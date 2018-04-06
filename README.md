@@ -1,9 +1,9 @@
-## Gareth-Duffy - GMIT
+## Gareth-Duffy - GMIT - Hdip Data Analytics
 
 <img src="https://image.ibb.co/gw4Gen/Index_GMIT.png" alt="Index GMIT" border="0" />
 
 ***GMIT Progamming & Scripting problem sets***
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **Excercise 1 of Programming and Scripting:**
 
