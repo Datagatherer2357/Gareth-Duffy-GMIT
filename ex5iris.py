@@ -2,6 +2,7 @@
 # Iris dataset (Excercise 5 Programming & Scripting).
 # Python script that reads Fisher's Iris dataset and prints the values
 # realligned with justification of spaces and columns
+# https://pyformat.info/
 
 with open("data/iris.csv") as f:
   for line in f: # for loop to iterate over lines (rows) in table
